@@ -4,8 +4,4 @@ refren-1.txt
 
 zwrotka-2.txt
 
-refren-2.txt
-
 zwrotka-3.txt
-
-refren-3.txt
