@@ -8,7 +8,4 @@ refren-2.txt
 
 zwrotka-3.txt
 
-Dream of Californication
-Dream of Californication
-Dream of Californication
-Dream of Californication
+refren-3.txt
